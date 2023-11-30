@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9740a4e346de3799",
+        "id": "22e534afc961c3d7",
         "type": "tabs",
         "children": [
           {
-            "id": "67790db4c8972928",
+            "id": "01be461d2a6a924b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Azure migration diagrams.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Azure migration diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Azure migration diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Azure migration diagrams.md"
+              }
             }
           }
         ]
@@ -138,27 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62c0631a90845d3d",
+  "active": "01be461d2a6a924b",
   "lastOpenFiles": [
-    "Vi editor cheat sheet.md",
+    "AMSys 6.0.0 - 5.1.1 merge.md",
     "TODO.md",
-    "T-Connect commands.md",
-    "Research.md",
     "Rename branch.md",
-    "Projects.md",
+    "Vi editor cheat sheet.md",
+    "Research.md",
+    "T-Connect commands.md",
     "Linux shell async execution.md",
-    "Learn.md",
-    "Kubernetes.md",
     "Kubernetes Jobs.md",
     "Kubernetes delete evicted pods.md",
     "Kubernetes commands.md",
+    "Kubernetes.md",
     "Imigration.md",
-    "Git.md",
-    "Delete commits.md",
-    "Create git tag.md",
-    "Basic formatting syntax.md",
     "Azure migration diagrams.md",
-    "AMSys.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md"
+    "Basic formatting syntax.md",
+    "Create git tag.md",
+    "Delete commits.md",
+    "Git.md",
+    "Learn.md",
+    "Projects.md",
+    "README.md",
+    "AMSys.md"
   ]
 }

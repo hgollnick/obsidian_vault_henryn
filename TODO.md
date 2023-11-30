@@ -6,4 +6,4 @@
 - [x] Setup notion for AI; https://youtu.be/SG2ozNh-27Y?si=lf3v_ZrPoKyliJ9F > Unfortunatly can,t be done without API Subscription; Setup with Llama locally;
 - [x] Talk about finding an apartment; -> Will be performed alone;
 - [x] Buy more cloths (T-Shirts and Trousers); No funds until moving;
-- [ ] Configure Obsidian Git;
+- [x] Configure Obsidian Git;
