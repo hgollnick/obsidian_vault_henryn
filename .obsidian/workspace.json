@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22e534afc961c3d7",
+        "id": "5636e7491f679296",
         "type": "tabs",
         "children": [
           {
-            "id": "01be461d2a6a924b",
+            "id": "8bf83c4432792bc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure migration diagrams.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure migration diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure migration diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Azure migration diagrams.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01be461d2a6a924b",
+  "active": "8bf83c4432792bc9",
   "lastOpenFiles": [
+    "Azure migration diagrams.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "TODO.md",
     "Rename branch.md",
@@ -160,7 +153,6 @@
     "Kubernetes commands.md",
     "Kubernetes.md",
     "Imigration.md",
-    "Azure migration diagrams.md",
     "Basic formatting syntax.md",
     "Create git tag.md",
     "Delete commits.md",
