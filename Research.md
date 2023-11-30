@@ -1,0 +1,5 @@
+- [ ] Worldcoin Technical Implementation whitepaper;
+- [ ] Llama2;
+- [ ] Vocaloid;
+- [ ] Ableton Live;
+- [ ] Breakcore;
