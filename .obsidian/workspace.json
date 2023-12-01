@@ -11,8 +11,12 @@
             "id": "8bf83c4432792bc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LLama2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LLama2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LLama2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LLama2.md"
+              }
             }
           }
         ]
@@ -140,15 +148,19 @@
   },
   "active": "8bf83c4432792bc9",
   "lastOpenFiles": [
-    "Azure migration diagrams.md",
+    "Projects.md",
+    "Research.md",
+    "LLama2.md",
+    "Kubernetes Jobs.md",
+    "Linux shell async execution.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "TODO.md",
+    "README.md",
+    "AMSys.md",
+    "Azure migration diagrams.md",
     "Rename branch.md",
     "Vi editor cheat sheet.md",
-    "Research.md",
     "T-Connect commands.md",
-    "Linux shell async execution.md",
-    "Kubernetes Jobs.md",
     "Kubernetes delete evicted pods.md",
     "Kubernetes commands.md",
     "Kubernetes.md",
@@ -157,9 +169,6 @@
     "Create git tag.md",
     "Delete commits.md",
     "Git.md",
-    "Learn.md",
-    "Projects.md",
-    "README.md",
-    "AMSys.md"
+    "Learn.md"
   ]
 }

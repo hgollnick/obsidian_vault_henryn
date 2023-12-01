@@ -10,4 +10,4 @@
 	- [ ] SeasaltAI;
 	- [ ] Scripty;
 * LLMS
-	- [ ]  Run Llama2;
+	- [x]  Run Llama2; For more information check [[LLama2]]
