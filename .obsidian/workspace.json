@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5636e7491f679296",
+        "id": "91392ff63cc2b0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf83c4432792bc9",
+            "id": "e215d5d8a5750f08",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AMSys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AMSys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AMSys.md"
+              }
             }
           }
         ]
@@ -138,29 +142,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf83c4432792bc9",
+  "active": "62c0631a90845d3d",
   "lastOpenFiles": [
-    "Projects.md",
-    "Azure migration diagrams.md",
     "Git.md",
-    "Imigration.md",
-    "Basic formatting syntax.md",
-    "Create git tag.md",
-    "Delete commits.md",
-    "LLama2.md",
     "Linux shell async execution.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md",
-    "AMSys.md",
-    "Research.md",
-    "Kubernetes Jobs.md",
-    "TODO.md",
-    "README.md",
-    "Rename branch.md",
     "Vi editor cheat sheet.md",
+    "TODO.md",
     "T-Connect commands.md",
+    "Rename branch.md",
+    "LLama2.md",
+    "Learn.md",
+    "Kubernetes Jobs.md",
     "Kubernetes delete evicted pods.md",
     "Kubernetes commands.md",
     "Kubernetes.md",
-    "Learn.md"
+    "Imigration.md",
+    "Basic formatting syntax.md",
+    "Delete commits.md",
+    "Create git tag.md",
+    "Projects.md",
+    "Azure migration diagrams.md",
+    "AMSys 6.0.0 - 5.1.1 merge.md",
+    "AMSys.md",
+    "Research.md",
+    "README.md"
   ]
 }
