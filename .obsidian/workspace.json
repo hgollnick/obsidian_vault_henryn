@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91392ff63cc2b0a4",
+        "id": "eba8a7b8e024a817",
         "type": "tabs",
         "children": [
           {
-            "id": "e215d5d8a5750f08",
+            "id": "b772dc8999816828",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMSys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMSys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AMSys.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,13 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62c0631a90845d3d",
+  "active": "b772dc8999816828",
   "lastOpenFiles": [
+    "Untitled.md",
+    "templates/semana.md",
+    "templates/reuniao.md",
+    "templates/pessoa.md",
+    "templates/nota.md",
+    "templates/kanban.md",
+    "templates/ferramenta.md",
+    "templates/diaria.md",
+    "templates/aula.md",
+    "templates",
+    "T-Connect commands.md",
+    "AMSys.md",
     "Git.md",
     "Linux shell async execution.md",
     "Vi editor cheat sheet.md",
     "TODO.md",
-    "T-Connect commands.md",
     "Rename branch.md",
     "LLama2.md",
     "Learn.md",
@@ -159,12 +166,6 @@
     "Imigration.md",
     "Basic formatting syntax.md",
     "Delete commits.md",
-    "Create git tag.md",
-    "Projects.md",
-    "Azure migration diagrams.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md",
-    "AMSys.md",
-    "Research.md",
-    "README.md"
+    "Create git tag.md"
   ]
 }
