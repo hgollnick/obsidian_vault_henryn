@@ -14,8 +14,29 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d10c9cf424ead351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure migration diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38068ddf2c2d8336",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d228a255b6f8561",
+  "active": "38068ddf2c2d8336",
   "lastOpenFiles": [
+    "Kubernetes commands.md",
+    "Azure migration diagrams.md",
+    "CKD-Info Terraform scripts.md",
+    "Azure migration.md",
     "Vi clear file.md",
     "T-Connect commands.md",
     "Kubernetes.md",
-    "Kubernetes commands.md",
     "Create git tag.md",
     "Delete commits.md",
     "Imigration.md",
@@ -163,9 +187,6 @@
     "Linux shell async execution.md",
     "Vi editor cheat sheet.md",
     "Rename branch.md",
-    "LLama2.md",
-    "Learn.md",
-    "Kubernetes Jobs.md",
-    "Basic formatting syntax.md"
+    "LLama2.md"
   ]
 }
