@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eba8a7b8e024a817",
+        "id": "b781a277842c7ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "b772dc8999816828",
+            "id": "8d228a255b6f8561",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b772dc8999816828",
+  "active": "8d228a255b6f8561",
   "lastOpenFiles": [
+    "T-Connect commands.md",
+    "Kubernetes.md",
+    "Kubernetes commands.md",
+    "Create git tag.md",
+    "Delete commits.md",
+    "Imigration.md",
+    "TODO.md",
     "Untitled.md",
+    "Kubernetes delete evicted pods.md",
+    "Git.md",
     "templates/semana.md",
     "templates/reuniao.md",
     "templates/pessoa.md",
@@ -150,22 +159,13 @@
     "templates/diaria.md",
     "templates/aula.md",
     "templates",
-    "T-Connect commands.md",
     "AMSys.md",
-    "Git.md",
     "Linux shell async execution.md",
     "Vi editor cheat sheet.md",
-    "TODO.md",
     "Rename branch.md",
     "LLama2.md",
     "Learn.md",
     "Kubernetes Jobs.md",
-    "Kubernetes delete evicted pods.md",
-    "Kubernetes commands.md",
-    "Kubernetes.md",
-    "Imigration.md",
-    "Basic formatting syntax.md",
-    "Delete commits.md",
-    "Create git tag.md"
+    "Basic formatting syntax.md"
   ]
 }
