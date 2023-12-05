@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b781a277842c7ac7",
+        "id": "0879223e68e0c2ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8d228a255b6f8561",
+            "id": "64d3d755e8dfeb2f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d10c9cf424ead351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure migration diagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38068ddf2c2d8336",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38068ddf2c2d8336",
+  "active": "64d3d755e8dfeb2f",
   "lastOpenFiles": [
-    "Kubernetes commands.md",
     "Azure migration diagrams.md",
+    "Kubernetes commands.md",
     "CKD-Info Terraform scripts.md",
     "Azure migration.md",
     "Vi clear file.md",
