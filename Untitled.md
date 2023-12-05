@@ -1,0 +1,3 @@
+- [x] variables.tf;
+- [ ] main.tf;
+- [x] config-map.yaml;
