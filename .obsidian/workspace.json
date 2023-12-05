@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0879223e68e0c2ca",
+        "id": "a7182816e498851f",
         "type": "tabs",
         "children": [
           {
-            "id": "64d3d755e8dfeb2f",
+            "id": "eec30c547d273ce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create git tag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9467623ad5a0fdf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T-Connect commands.md",
+                "file": "Vi clear file.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "Vi clear file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "Vi clear file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T-Connect commands.md"
+                "file": "Vi clear file.md"
               }
             }
           }
@@ -159,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9467623ad5a0fdf7",
+  "active": "eec30c547d273ce9",
   "lastOpenFiles": [
     "Untitled.md",
-    "Create git tag.md",
+    "Vi clear file.md",
+    "Projects.md",
     "AMSys.md",
+    "Create git tag.md",
+    "T-Connect commands.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "Azure migration.md",
     "Basic formatting syntax.md",
     "Azure migration diagrams.md",
     "Kubernetes commands.md",
     "CKD-Info Terraform scripts.md",
-    "Vi clear file.md",
-    "T-Connect commands.md",
     "Kubernetes.md",
     "Delete commits.md",
     "Imigration.md",
@@ -186,7 +174,6 @@
     "templates/ferramenta.md",
     "templates/diaria.md",
     "templates/aula.md",
-    "templates",
-    "Linux shell async execution.md"
+    "templates"
   ]
 }
