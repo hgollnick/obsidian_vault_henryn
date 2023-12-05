@@ -1,3 +1,5 @@
+[[Kubernetes]]
+
 echo -n '<secret>' | base64
 
 1) Authenticate to Kubernetes Cluster
