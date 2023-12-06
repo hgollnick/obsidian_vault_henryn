@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0ce04a21facba2",
+        "id": "1861fb767778b09e",
         "type": "tabs",
         "children": [
           {
-            "id": "eecd39e19ca6f63d",
+            "id": "edce8678dccae9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:terra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terraform.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,34 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab55c5f831cccf59",
+  "active": "edce8678dccae9fe",
   "lastOpenFiles": [
-    "Terraform.md",
-    "Kubernetes.md",
-    "Kubernetes Jobs.md",
-    "Kubernetes commands.md",
-    "Delete commits.md",
-    "Kubernetes delete evicted pods.md",
-    "Azure migration diagrams.md",
-    "AMSys.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Azure migration.md",
+    "Azure migration diagrams.md",
+    "AMSys 6.0.0 - 5.1.1 merge.md",
+    "AMSys.md",
+    "Research.md",
+    "Rename branch.md",
+    "Projects.md",
+    "Learn.md",
+    "Terraform.md",
+    "TODO.md",
+    "Vi clear file.md",
+    "Vi editor cheat sheet.md",
+    "2023-12-06.md",
+    "Kubernetes Jobs.md",
+    "T-Connect commands.md",
     "LLama2.md",
     "Linux shell async execution.md",
+    "Kubernetes delete evicted pods.md",
+    "Kubernetes commands.md",
+    "Kubernetes.md",
     "Imigration.md",
     "Git.md",
-    "Basic formatting syntax.md",
+    "Delete commits.md",
     "Create git tag.md",
-    "Vi clear file.md",
-    "Projects.md",
-    "T-Connect commands.md",
-    "CKD-Info Terraform scripts.md",
-    "TODO.md",
-    "templates/semana.md",
-    "templates/reuniao.md",
-    "templates/pessoa.md",
-    "templates/nota.md",
-    "templates/kanban.md",
+    "Basic formatting syntax.md",
     "templates"
   ]
 }

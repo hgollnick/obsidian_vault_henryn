@@ -1,3 +1,5 @@
+[[Projects]]
+
 - [x] Worldcoin Technical Implementation whitepaper;
 	- Not of interest anymore;
 - [x] Llama2;
@@ -7,3 +9,6 @@
 - [x] Ableton Live;
 	- [x] Breakcore;
 	- No priority;
+- [x] Binomes;
+- [x] Multinomes;
+- [x] Turing machines;
