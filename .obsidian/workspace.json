@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7182816e498851f",
+        "id": "9f0ce04a21facba2",
         "type": "tabs",
         "children": [
           {
-            "id": "eec30c547d273ce9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d48be4d7e4d0b356",
+            "id": "eecd39e19ca6f63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:terra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -156,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d48be4d7e4d0b356",
+  "active": "ab55c5f831cccf59",
   "lastOpenFiles": [
     "Terraform.md",
     "Kubernetes.md",
