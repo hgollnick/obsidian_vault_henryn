@@ -32,7 +32,7 @@ Here are some of the main Terraform commands you'll commonly use in your infrast
     
     `terraform fmt`
     
-7. **`terraform state`**: Manages the Terraform state. This includes various subcommands like `terraform state list`, `terraform state show`, and `terraform state pull`. It allows you to inspect and manage the state of your infrastructure.
+7. **`terraform state`**: Manages the Terraform state. This includes various subcommands like `terraform state list`, `terraform state show`, and `terraform state pull`. It allows you to inspect and manage the state of your infrastructure. For more information check [[Terraform state]].
     
     `terraform state list`
     

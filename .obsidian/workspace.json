@@ -31,11 +31,28 @@
             "id": "c3fe4da927a02291",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Terraform commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2196ec93d0d66fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform state.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terraform state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Terraform state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Terraform state.md"
+              }
             }
           }
         ]
@@ -158,11 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edce8678dccae9fe",
+  "active": "2196ec93d0d66fa0",
   "lastOpenFiles": [
-    "Imigration.md",
-    "Terraform.md",
     "Terraform commands.md",
+    "Terraform init.md",
+    "Terraform state.md",
+    "Terraform.md",
+    "Imigration.md",
     "Azure.md",
     "Azure migration.md",
     "Terraform HUB-Spoke.md",
@@ -186,8 +209,6 @@
     "Kubernetes delete evicted pods.md",
     "Kubernetes commands.md",
     "Kubernetes.md",
-    "Git.md",
-    "Delete commits.md",
     "templates"
   ]
 }
