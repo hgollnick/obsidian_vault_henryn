@@ -1,3 +1,7 @@
+[[Terraform commands]]
+
+Terraform is a popular Infrastructure as Code (IaC) tool that allows you to define and provision infrastructure in a declarative manner.
+
 * What is the "versions.tf" file, and what are the "provider" and "required_providers" in there?
 ## Backend
 
