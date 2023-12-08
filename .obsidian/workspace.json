@@ -11,7 +11,7 @@
             "id": "c54e5d3a35cc4d38",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5086555480957
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -140,6 +140,10 @@
   },
   "active": "c54e5d3a35cc4d38",
   "lastOpenFiles": [
+    "Azure.md",
+    "Azure Virtual Network.md",
+    "Azure migration.md",
+    "Azure Network Security Group.md",
     "Azure Network Interface.md",
     "Azure IP Configuration.md",
     "Terraform HUB-Spoke.md",
@@ -155,14 +159,10 @@
     "Kubernetes.md",
     "Imigration.md",
     "Git.md",
-    "Azure Virtual Network.md",
     "Basic formatting syntax.md",
     "[.md",
     "Azure Subnet.md",
-    "Azure Network Security Group.md",
-    "Azure.md",
     "Terraform init.md",
-    "Azure migration.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Azure migration diagrams.md",
