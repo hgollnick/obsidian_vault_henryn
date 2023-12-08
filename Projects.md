@@ -1,6 +1,6 @@
 - [ ] Auto lyrical video with Whisper and Spotify download integration;
 - [ ] OpenAI Whisper Bot for discord;
-- [ ] Read a D&D Sheet with a LLM; Gamemaster.?
+- [ ] Read a D&D Sheet with a LLM; Gamemaster?
 - [ ] Configure LLM with some sort of personality;
 - [ ] LLM integration with Amazon Alexa;
 - [ ] LLM integration with Obsidian;
