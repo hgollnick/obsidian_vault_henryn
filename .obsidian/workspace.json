@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "41055a3d5516bd4d",
+        "id": "b4ab4f92b0f0e295",
         "type": "tabs",
         "children": [
           {
-            "id": "c54e5d3a35cc4d38",
+            "id": "dc888d1b29c69174",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54e5d3a35cc4d38",
+  "active": "dc888d1b29c69174",
   "lastOpenFiles": [
     "Azure.md",
     "Azure Virtual Network.md",
