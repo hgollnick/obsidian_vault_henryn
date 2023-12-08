@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac666a896e24c0ee",
+        "id": "41055a3d5516bd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "184cd3fe7421b7ab",
+            "id": "c54e5d3a35cc4d38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Network Interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce5baaad34312049",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce5baaad34312049",
+  "active": "c54e5d3a35cc4d38",
   "lastOpenFiles": [
-    "Azure IP Configuration.md",
     "Azure Network Interface.md",
+    "Azure IP Configuration.md",
     "Terraform HUB-Spoke.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AMSys.md",
