@@ -1,0 +1,1 @@
+`conda create -n "name" python="version"`

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a4233664c67f7da",
+        "id": "4407f6b0f89e18e9",
         "type": "tabs",
         "children": [
           {
-            "id": "cede0cf79562230a",
+            "id": "743566e91f715069",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,12 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cede0cf79562230a",
+  "active": "743566e91f715069",
   "lastOpenFiles": [
+    "Conda commands.md",
+    "LLama2.md",
+    "Imigration.md",
+    "Git.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
+    "LLama model conversion to Hugging Face.md",
     "Research.md",
     "LLama2 models comparison.md",
-    "LLama2.md",
     "AMSys.md",
     "Projects.md",
     "Rename branch.md",
@@ -161,10 +165,6 @@
     "Azure Virtual Network.md",
     "Azure Subnet.md",
     "Azure Network Security Group.md",
-    "Azure Network Interface.md",
-    "Azure IP Configuration.md",
-    "Kubernetes Jobs.md",
-    "README.md",
-    "Azure migration diagrams.md"
+    "Azure Network Interface.md"
   ]
 }
