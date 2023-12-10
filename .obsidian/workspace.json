@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce183f87a4a8b0fd",
+        "id": "ecd1f3335885ff9c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee50ca06103d179",
+            "id": "fcd5bbe066cb38a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee50ca06103d179",
+  "active": "fcd5bbe066cb38a7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Projects.md",
     "LLama2 models comparison.md",
     "Conda commands.md",
@@ -164,7 +165,6 @@
     "Azure migration.md",
     "Azure Virtual Network.md",
     "Azure Subnet.md",
-    "Azure Network Security Group.md",
-    "Azure Network Interface.md"
+    "Azure Network Security Group.md"
   ]
 }
