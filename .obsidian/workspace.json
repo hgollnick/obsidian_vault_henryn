@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4407f6b0f89e18e9",
+        "id": "ce183f87a4a8b0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "743566e91f715069",
+            "id": "6ee50ca06103d179",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "743566e91f715069",
+  "active": "6ee50ca06103d179",
   "lastOpenFiles": [
+    "Projects.md",
+    "LLama2 models comparison.md",
     "Conda commands.md",
     "LLama2.md",
     "Imigration.md",
@@ -147,9 +149,7 @@
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "LLama model conversion to Hugging Face.md",
     "Research.md",
-    "LLama2 models comparison.md",
     "AMSys.md",
-    "Projects.md",
     "Rename branch.md",
     "TODO.md",
     "conflict-files-obsidian-git.md",
