@@ -1,3 +1,0 @@
-- [x] Binomes;
-- [x] Multinomes;
-- [x] Turing machines;

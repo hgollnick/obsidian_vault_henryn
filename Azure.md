@@ -1,0 +1,2 @@
+* Does all components in Azure need to have a Resource Group?
+	A Resource Group is a fundamental concept that serves as a logical container for resources deployed within Azure. While not every component in Azure needs to have its own Resource Group, it is a best practice to organize resources into Resource Groups to effective resource management, organization, and governance in Azure.

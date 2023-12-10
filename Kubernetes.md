@@ -1,2 +1,0 @@
-[[Kubernetes commands]]
-[[Kubernetes Jobs]]
