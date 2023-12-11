@@ -1,2 +1,0 @@
-
- . .scripte/deploy.sh plan

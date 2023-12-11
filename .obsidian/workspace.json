@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ab4f92b0f0e295",
+        "id": "c0fc7288e687efd2",
         "type": "tabs",
         "children": [
           {
-            "id": "dc888d1b29c69174",
+            "id": "a8a8b2e30a3e3a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "769c2b0ac619fa0b",
+            "id": "263ec25009159926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform HUB-Spoke.md",
+                "file": "WSP Doku Jobs Azure migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform HUB-Spoke.md",
+                "file": "WSP Doku Jobs Azure migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform HUB-Spoke.md",
+                "file": "WSP Doku Jobs Azure migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform HUB-Spoke.md"
+                "file": "WSP Doku Jobs Azure migration.md"
               }
             }
           }
@@ -159,21 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769c2b0ac619fa0b",
+  "active": "263ec25009159926",
   "lastOpenFiles": [
-    "Azure Virtual Network.md",
+    "WSP Doku Jobs Azure migration.md",
     "Untitled.md",
+    "How to run shell files.md",
+    "Projects.md",
+    "Terraform HUB-Spoke.md",
+    "Azure Virtual Network.md",
     "LLama2 models comparison.md",
     "LLama model conversion to Hugging Face.md",
     "Conda commands.md",
-    "Projects.md",
     "LLama2.md",
     "Azure.md",
     "Azure migration.md",
     "Azure Network Security Group.md",
     "Azure Network Interface.md",
     "Azure IP Configuration.md",
-    "Terraform HUB-Spoke.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AMSys.md",
     "TODO.md",
@@ -185,8 +183,6 @@
     "Kubernetes commands.md",
     "Kubernetes.md",
     "Imigration.md",
-    "Git.md",
-    "Basic formatting syntax.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
