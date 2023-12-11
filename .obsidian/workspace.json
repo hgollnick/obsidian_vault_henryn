@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4407f6b0f89e18e9",
+        "id": "b4ab4f92b0f0e295",
         "type": "tabs",
         "children": [
           {
-            "id": "743566e91f715069",
+            "id": "dc888d1b29c69174",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "769c2b0ac619fa0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5086555480957
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,33 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "743566e91f715069",
+  "active": "769c2b0ac619fa0b",
   "lastOpenFiles": [
+    "LLama2 models comparison.md",
+    "LLama model conversion to Hugging Face.md",
     "Conda commands.md",
+    "Projects.md",
+    "Untitled.md",
     "LLama2.md",
+    "Azure.md",
+    "Azure Virtual Network.md",
+    "Azure migration.md",
+    "Azure Network Security Group.md",
+    "Azure Network Interface.md",
+    "Azure IP Configuration.md",
+    "Terraform HUB-Spoke.md",
+    "AMSys 6.0.0 - 5.1.1 merge.md",
+    "AMSys.md",
+    "TODO.md",
+    "Terraform state.md",
+    "Terraform.md",
+    "Terraform commands.md",
+    "Research.md",
+    "Linux shell async execution.md",
+    "Kubernetes commands.md",
+    "Kubernetes.md",
     "Imigration.md",
     "Git.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md",
-    "LLama model conversion to Hugging Face.md",
-    "Research.md",
-    "LLama2 models comparison.md",
-    "AMSys.md",
-    "Projects.md",
-    "Rename branch.md",
-    "TODO.md",
-    "conflict-files-obsidian-git.md",
-    "Linux shell async execution.md",
-    "Kubernetes delete evicted pods.md",
-    "Vi clear file.md",
-    "Terraform.md",
-    "Terraform state.md",
-    "Terraform commands.md",
-    "Terraform HUB-Spoke.md",
-    "Azure.md",
-    "Azure migration.md",
-    "Azure Virtual Network.md",
-    "Azure Subnet.md",
-    "Azure Network Security Group.md",
-    "Azure Network Interface.md"
+    "Basic formatting syntax.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "templates"
   ]
 }
