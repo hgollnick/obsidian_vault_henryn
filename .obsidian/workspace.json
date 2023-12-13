@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to run shell files.md",
+                "file": "Kubernetes commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to run shell files.md",
+                "file": "Kubernetes commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to run shell files.md",
+                "file": "Kubernetes commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to run shell files.md"
+                "file": "Kubernetes commands.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a8a8b2e30a3e3a0c",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "How to run shell files.md",
     "Untitled.md",
     "WSP Doku Jobs Azure migration.md",
-    "How to run shell files.md",
     "Projects.md",
     "Terraform HUB-Spoke.md",
     "Azure Virtual Network.md",
@@ -172,7 +173,6 @@
     "Research.md",
     "Linux shell async execution.md",
     "Kubernetes commands.md",
-    "Kubernetes.md",
     "Imigration.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
