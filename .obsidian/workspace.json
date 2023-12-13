@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0fc7288e687efd2",
+        "id": "af8308ba09c3dcee",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a8b2e30a3e3a0c",
+            "id": "ab7c36729fe88714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8a8b2e30a3e3a0c",
+  "active": "ab7c36729fe88714",
   "lastOpenFiles": [
+    "Kubernetes commands.md",
     "Kubernetes.md",
     "How to run shell files.md",
     "Untitled.md",
@@ -172,7 +165,6 @@
     "Terraform commands.md",
     "Research.md",
     "Linux shell async execution.md",
-    "Kubernetes commands.md",
     "Imigration.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
