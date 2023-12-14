@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd1f3335885ff9c",
+        "id": "af8308ba09c3dcee",
         "type": "tabs",
         "children": [
           {
-            "id": "c253fc55c52e971d",
+            "id": "ab7c36729fe88714",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Delete commits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5086555480957
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Delete commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Delete commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Delete commits.md"
+              }
             }
           }
         ]
@@ -138,33 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c253fc55c52e971d",
+  "active": "ab7c36729fe88714",
   "lastOpenFiles": [
     "Reading complex files with LLMs.md",
-    "Projects.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
     "RRPG plugin development.md",
-    "Azure IP Configuration.md",
-    "Azure Network Security Group.md",
-    "Azure.md",
-    "Git.md",
-    "Linux shell async execution.md",
-    "Vi editor cheat sheet.md",
-    "Terraform HUB-Spoke.md",
-    "LLama model conversion to Hugging Face.md",
+    "Kubernetes commands.md",
+    "Kubernetes.md",
     "How to run shell files.md",
+    "Untitled.md",
+    "WSP Doku Jobs Azure migration.md",
+    "Projects.md",
+    "Terraform HUB-Spoke.md",
+    "Azure Virtual Network.md",
     "LLama2 models comparison.md",
+    "LLama model conversion to Hugging Face.md",
     "Conda commands.md",
     "LLama2.md",
-    "Imigration.md",
+    "Azure.md",
+    "Azure migration.md",
+    "Azure Network Security Group.md",
+    "Azure Network Interface.md",
+    "Azure IP Configuration.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
-    "Research.md",
     "AMSys.md",
-    "Rename branch.md",
     "TODO.md",
-    "Kubernetes delete evicted pods.md",
-    "Vi clear file.md",
-    "Terraform.md"
+    "Terraform state.md",
+    "Terraform.md",
+    "Terraform commands.md",
+    "Research.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "templates"
   ]
 }
