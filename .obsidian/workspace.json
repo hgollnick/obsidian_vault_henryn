@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e346cf47ade1d6",
+        "id": "213c9170def81219",
         "type": "tabs",
         "children": [
           {
-            "id": "740909b5c4362f23",
+            "id": "37af4142cc1ac3bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5086555480957
+    "width": 300
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -138,36 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "740909b5c4362f23",
+  "active": "37af4142cc1ac3bc",
   "lastOpenFiles": [
-    "Delete commits.md",
-    "Reading complex files with LLMs.md",
-    "RRPG plugin development.md",
-    "Kubernetes commands.md",
-    "Kubernetes.md",
-    "How to run shell files.md",
-    "Untitled.md",
-    "WSP Doku Jobs Azure migration.md",
-    "Projects.md",
-    "Terraform HUB-Spoke.md",
-    "Azure Virtual Network.md",
-    "LLama2 models comparison.md",
-    "LLama model conversion to Hugging Face.md",
+    "Whisper.md",
     "Conda commands.md",
-    "LLama2.md",
-    "Azure.md",
-    "Azure migration.md",
-    "Azure Network Security Group.md",
-    "Azure Network Interface.md",
+    "Reading complex files with LLMs.md",
+    "Projects.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "RRPG plugin development.md",
     "Azure IP Configuration.md",
+    "Azure Network Security Group.md",
+    "Azure.md",
+    "Git.md",
+    "Linux shell async execution.md",
+    "Vi editor cheat sheet.md",
+    "Terraform HUB-Spoke.md",
+    "LLama model conversion to Hugging Face.md",
+    "How to run shell files.md",
+    "LLama2 models comparison.md",
+    "LLama2.md",
+    "Imigration.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
+    "Research.md",
     "AMSys.md",
+    "Rename branch.md",
     "TODO.md",
-    "Terraform state.md",
-    "Terraform.md",
-    "Terraform commands.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "templates"
+    "Kubernetes delete evicted pods.md",
+    "Vi clear file.md"
   ]
 }
