@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e346cf47ade1d6",
+        "id": "82b582be05972d63",
         "type": "tabs",
         "children": [
           {
-            "id": "740909b5c4362f23",
+            "id": "18ef4c46b519fb34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,15 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "740909b5c4362f23",
+  "active": "18ef4c46b519fb34",
   "lastOpenFiles": [
     "Delete commits.md",
+    "WSP-Doku cron jobs.md",
+    "T-Connect commands.md",
     "Reading complex files with LLMs.md",
     "RRPG plugin development.md",
     "Kubernetes commands.md",
     "Kubernetes.md",
     "How to run shell files.md",
-    "Untitled.md",
     "WSP Doku Jobs Azure migration.md",
     "Projects.md",
     "Terraform HUB-Spoke.md",
@@ -165,7 +167,6 @@
     "TODO.md",
     "Terraform state.md",
     "Terraform.md",
-    "Terraform commands.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
