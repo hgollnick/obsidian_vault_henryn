@@ -1,3 +1,5 @@
+#work 
+
 `kubectl delete -n a4t-wspdoku -f wspdoku-alaea-simulation-cronjob.yaml &
 `kubectl delete -n a4t-wspdoku -f wspdoku-epdmu-export-bcs-d-aksaray-cronjob.yaml &
 `kubectl delete -n a4t-wspdoku -f wspdoku-epdmu-export-bcs-d-cronjob.yaml &
