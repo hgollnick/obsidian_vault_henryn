@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "730ba4a59a6d3bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -139,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18ef4c46b519fb34",
+  "active": "730ba4a59a6d3bf7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Delete commits.md",
     "WSP-Doku cron jobs.md",
     "T-Connect commands.md",
@@ -166,7 +184,6 @@
     "AMSys.md",
     "TODO.md",
     "Terraform state.md",
-    "Terraform.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
