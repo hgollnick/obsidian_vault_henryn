@@ -9,3 +9,4 @@
 - [x] Configure Obsidian Git;
 - [ ] Marcar médico;
 - [ ] Automatizar pagamento seguro Amarok?;
+- [ ] Plano Vivo; 
