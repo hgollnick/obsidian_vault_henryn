@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28205780eacfa2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learnings.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imigration.md",
+                "file": "AI Learnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imigration.md",
+                "file": "AI Learnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imigration.md"
+                "file": "AI Learnings.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfc634b4509c17c0",
+  "active": "28205780eacfa2e8",
   "lastOpenFiles": [
+    "TODO.md",
+    "Untitled.md",
+    "AI Learnings.md",
+    "Imigration.md",
     "How to run shell files.md",
     "T-Connect commands.md",
     "WSP-Doku cron jobs.md",
@@ -170,10 +187,6 @@
     "Azure Network Security Group.md",
     "Azure Network Interface.md",
     "Azure IP Configuration.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md",
-    "AMSys.md",
-    "TODO.md",
-    "Terraform state.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
