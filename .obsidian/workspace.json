@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b74937f852a7bd4",
+        "id": "b91bc66aad156fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "20e60f853e96e083",
+            "id": "cfc634b4509c17c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WSP-Doku cron jobs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSP-Doku cron jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WSP-Doku cron jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WSP-Doku cron jobs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20e60f853e96e083",
+  "active": "cfc634b4509c17c0",
   "lastOpenFiles": [
-    "Kubernetes.md",
+    "T-Connect commands.md",
     "WSP-Doku cron jobs.md",
+    "Kubernetes.md",
     "conflict-files-obsidian-git.md",
     "Delete commits.md",
-    "T-Connect commands.md",
     "Reading complex files with LLMs.md",
     "RRPG plugin development.md",
     "Kubernetes commands.md",
