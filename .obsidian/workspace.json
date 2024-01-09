@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce048d99a2aa760",
+        "id": "37efb88817591c96",
         "type": "tabs",
         "children": [
           {
-            "id": "451f92a5f1c3b4f5",
+            "id": "c31fd65b10895d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
+                "file": "AI Learnings.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e8b10e3b628fa40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "AI Learnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "AI Learnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "AI Learnings.md"
               }
             }
           }
@@ -157,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e8b10e3b628fa40",
+  "active": "c31fd65b10895d8a",
   "lastOpenFiles": [
+    "TODO.md",
+    "Azure IP Configuration.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AI Project Scoping.md",
     "images/Typical Data Science Process.jpg",
     "AI Learnings.md",
     "Imigration.md",
     "images",
-    "TODO.md",
     "How to run shell files.md",
     "T-Connect commands.md",
     "WSP-Doku cron jobs.md",
@@ -186,7 +176,6 @@
     "Azure.md",
     "Azure migration.md",
     "Azure Network Security Group.md",
-    "Azure Network Interface.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
