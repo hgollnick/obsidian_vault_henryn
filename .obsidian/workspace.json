@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e8b10e3b628fa40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "451f92a5f1c3b4f5",
+  "active": "7e8b10e3b628fa40",
   "lastOpenFiles": [
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AI Project Scoping.md",
