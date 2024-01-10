@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "489516e4bf19e00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Learnings.md",
+                "file": "TODO Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Learnings.md",
+                "file": "TODO Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Learnings.md"
+                "file": "TODO Work.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c31fd65b10895d8a",
+  "active": "489516e4bf19e00f",
   "lastOpenFiles": [
+    "AI Learnings.md",
+    "TODO Work.md",
     "TODO.md",
     "Azure IP Configuration.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AI Project Scoping.md",
     "images/Typical Data Science Process.jpg",
-    "AI Learnings.md",
     "Imigration.md",
     "images",
     "How to run shell files.md",
@@ -175,7 +189,6 @@
     "LLama2.md",
     "Azure.md",
     "Azure migration.md",
-    "Azure Network Security Group.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
