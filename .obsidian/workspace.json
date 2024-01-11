@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "37efb88817591c96",
+        "id": "f515d7c70eb2e907",
         "type": "tabs",
         "children": [
           {
-            "id": "c31fd65b10895d8a",
+            "id": "5ad95af049aada5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Learnings.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f8b73b04aaa2bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489516e4bf19e00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WSP-Doku cron jobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ddd383c5203b0a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RRPG plugin development.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RRPG plugin development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RRPG plugin development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RRPG plugin development.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ddd383c5203b0a2",
+  "active": "5ad95af049aada5c",
   "lastOpenFiles": [
+    "AI Learnings.md",
+    "Pandas.md",
+    "WSP-Doku cron jobs.md",
+    "RRPG plugin development.md",
     "T-Connect commands.md",
     "TODO Work.md",
-    "WSP-Doku cron jobs.md",
-    "Pandas.md",
-    "AI Learnings.md",
     "TODO.md",
     "Vi clear file.md",
     "Kubernetes delete evicted pods.md",
@@ -205,7 +161,6 @@
     "conflict-files-obsidian-git.md",
     "Delete commits.md",
     "Reading complex files with LLMs.md",
-    "RRPG plugin development.md",
     "WSP Doku Jobs Azure migration.md",
     "Projects.md",
     "Terraform HUB-Spoke.md",
