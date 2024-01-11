@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c7f8b73b04aaa2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "489516e4bf19e00f",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSP-Doku cron jobs.md",
+                "file": "Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WSP-Doku cron jobs.md",
+                "file": "Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WSP-Doku cron jobs.md"
+                "file": "Pandas.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489516e4bf19e00f",
+  "active": "c7f8b73b04aaa2bf",
   "lastOpenFiles": [
+    "AI Learnings.md",
+    "Pandas.md",
     "TODO Work.md",
     "WSP-Doku cron jobs.md",
-    "AI Learnings.md",
     "TODO.md",
     "Vi clear file.md",
     "T-Connect commands.md",
@@ -200,7 +213,6 @@
     "LLama2 models comparison.md",
     "LLama model conversion to Hugging Face.md",
     "Conda commands.md",
-    "LLama2.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
