@@ -7,7 +7,8 @@
 	- [x] Wait for Eduardo Response on 404;
 - [ ] Test "Initial aus TBo bei Neuanlage";
 	- [ ] Speak with Anita;
-- [ ] Test FEED Prod to check on RMD;
-- [ ] Check SUSE Dev;
+- [x] Test FEED Prod to check on RMD;
+- [x] Check SUSE Dev;
 - [ ] WSP-Doku Conjobs config-map INT;
-- [ ] Ask William for Feed Excel generation explanation;
+- [x] Ask William for Feed Excel generation explanation;
+- [ ] T-Connect NullPointerException;
