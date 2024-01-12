@@ -11,5 +11,5 @@
 - [x] Check SUSE Dev;
 - [ ] WSP-Doku Conjobs config-map INT;
 - [x] Ask William for Feed Excel generation explanation;
-- [ ] T-Connect NullPointerException;
+- [x] T-Connect NullPointerException;
 - [ ] GATo WildFly 29.0.1;
