@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db415b07513ba285",
+        "id": "bff705658bac2048",
         "type": "tabs",
         "children": [
           {
-            "id": "eedd4338c9ae2426",
+            "id": "df0af497253af83d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5086555480957
+    "width": 439.504695892334
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T-Connect commands.md"
+                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eedd4338c9ae2426",
+  "active": "df0af497253af83d",
   "lastOpenFiles": [
+    "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
+    "C1_W1_Lab_1_introduction_to_numpy_arrays 1.ipynb",
+    "C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb",
     "TODO Work.md",
+    "T-Connect commands.md",
     "AI Learnings.md",
     "Pandas.md",
     "WSP-Doku cron jobs.md",
     "RRPG plugin development.md",
-    "T-Connect commands.md",
     "TODO.md",
     "Vi clear file.md",
     "Kubernetes delete evicted pods.md",
@@ -174,8 +177,6 @@
     "Terraform HUB-Spoke.md",
     "Azure Virtual Network.md",
     "LLama2 models comparison.md",
-    "LLama model conversion to Hugging Face.md",
-    "Conda commands.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
