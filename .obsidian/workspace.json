@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bff705658bac2048",
+        "id": "069cb0f8a51a7208",
         "type": "tabs",
         "children": [
           {
-            "id": "df0af497253af83d",
+            "id": "8fad19e003aed19c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C1_W1_Lab_1_introduction_to_numpy_arrays.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df0af497253af83d",
+  "active": "8fad19e003aed19c",
   "lastOpenFiles": [
+    "Linear algebra - Week 1.pdf",
+    "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
+    "images/output_51_0.png",
     "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
+    "images/output_43_0.png",
+    "images/output_33_0.png",
     "C1_W1_Lab_1_introduction_to_numpy_arrays 1.ipynb",
     "C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb",
     "TODO Work.md",
@@ -176,7 +173,6 @@
     "Projects.md",
     "Terraform HUB-Spoke.md",
     "Azure Virtual Network.md",
-    "LLama2 models comparison.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "templates"
