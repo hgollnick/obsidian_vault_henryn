@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddc880e09e68e75",
+        "id": "db415b07513ba285",
         "type": "tabs",
         "children": [
           {
-            "id": "885b9fbc73bea60e",
+            "id": "eedd4338c9ae2426",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "T-Connect commands.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5086555480957
   },
   "right": {
     "id": "3c350e37807f0232",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Typical Data Science Process.jpg",
+                "file": "T-Connect commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Typical Data Science Process.jpg",
+                "file": "T-Connect commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Typical Data Science Process.jpg"
+                "file": "T-Connect commands.md"
               }
             }
           }
@@ -144,34 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "885b9fbc73bea60e",
+  "active": "eedd4338c9ae2426",
   "lastOpenFiles": [
-    "images/Typical Data Science Process.jpg",
-    "images",
-    "WSP-Doku cron jobs.md",
     "TODO Work.md",
-    "Pandas.md",
-    "AI Project Scoping.md",
     "AI Learnings.md",
-    "Whisper.md",
-    "Conda commands.md",
-    "Reading complex files with LLMs.md",
-    "Projects.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
+    "Pandas.md",
+    "WSP-Doku cron jobs.md",
     "RRPG plugin development.md",
+    "T-Connect commands.md",
+    "TODO.md",
+    "Vi clear file.md",
+    "Kubernetes delete evicted pods.md",
+    "Kubernetes commands.md",
+    "Kubernetes.md",
     "Azure IP Configuration.md",
-    "Azure Network Security Group.md",
-    "Azure.md",
-    "Git.md",
-    "Linux shell async execution.md",
-    "Vi editor cheat sheet.md",
-    "Terraform HUB-Spoke.md",
-    "LLama model conversion to Hugging Face.md",
-    "How to run shell files.md",
-    "LLama2 models comparison.md",
-    "LLama2.md",
+    "AMSys 6.0.0 - 5.1.1 merge.md",
+    "AI Project Scoping.md",
+    "images/Typical Data Science Process.jpg",
     "Imigration.md",
-    "AMSys 6.0.0 - 5.1.1 merge.md"
+    "images",
+    "How to run shell files.md",
+    "conflict-files-obsidian-git.md",
+    "Delete commits.md",
+    "Reading complex files with LLMs.md",
+    "WSP Doku Jobs Azure migration.md",
+    "Projects.md",
+    "Terraform HUB-Spoke.md",
+    "Azure Virtual Network.md",
+    "LLama2 models comparison.md",
+    "LLama model conversion to Hugging Face.md",
+    "Conda commands.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "templates"
   ]
 }
