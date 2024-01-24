@@ -18,4 +18,6 @@
 
 - [x] FEED defects;
 - [ ] Schätzung FEED;
-- [ ] FEED Proxy;
+- [x] FEED Proxy;
+- [ ] DR-Tool DEV;
+- [ ] INC1802853;
