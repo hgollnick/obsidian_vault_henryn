@@ -13,3 +13,9 @@
 - [x] Ask William for Feed Excel generation explanation;
 - [x] T-Connect NullPointerException;
 - [x] GATo WildFly 29.0.1;
+- [ ] Ask for Jakarta ticket;
+
+
+- [x] FEED defects;
+- [ ] Schätzung FEED;
+- [ ] FEED Proxy;

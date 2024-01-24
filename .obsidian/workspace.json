@@ -11,8 +11,24 @@
             "id": "8fad19e003aed19c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d073b63052481e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T-Connect commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO Work.md"
+              }
             }
           }
         ]
@@ -140,6 +160,8 @@
   },
   "active": "8fad19e003aed19c",
   "lastOpenFiles": [
+    "T-Connect commands.md",
+    "TODO Work.md",
     "Linear algebra - Week 1.pdf",
     "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
     "images/output_51_0.png",
@@ -148,8 +170,6 @@
     "images/output_33_0.png",
     "C1_W1_Lab_1_introduction_to_numpy_arrays 1.ipynb",
     "C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb",
-    "TODO Work.md",
-    "T-Connect commands.md",
     "AI Learnings.md",
     "Pandas.md",
     "WSP-Doku cron jobs.md",
