@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO Work.md",
+                "file": "T-Connect commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO Work.md",
+                "file": "T-Connect commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO Work.md"
+                "file": "T-Connect commands.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fad19e003aed19c",
+  "active": "d073b63052481e5f",
   "lastOpenFiles": [
-    "T-Connect commands.md",
     "TODO Work.md",
+    "T-Connect commands.md",
     "Linear algebra - Week 1.pdf",
     "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
     "images/output_51_0.png",
