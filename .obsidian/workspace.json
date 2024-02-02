@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d073b63052481e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T-Connect commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "TODO Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T-Connect commands.md",
+                "file": "TODO Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T-Connect commands.md"
+                "file": "TODO Work.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d073b63052481e5f",
+  "active": "8fad19e003aed19c",
   "lastOpenFiles": [
-    "TODO Work.md",
+    "Delete commits.md",
     "T-Connect commands.md",
+    "TODO Work.md",
     "Linear algebra - Week 1.pdf",
     "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
     "images/output_51_0.png",
@@ -188,7 +176,6 @@
     "images",
     "How to run shell files.md",
     "conflict-files-obsidian-git.md",
-    "Delete commits.md",
     "Reading complex files with LLMs.md",
     "WSP Doku Jobs Azure migration.md",
     "Projects.md",
