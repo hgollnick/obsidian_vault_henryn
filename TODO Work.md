@@ -17,7 +17,6 @@
 
 - [x] FEED defects;
 - [x] FEED Proxy;
-- [ ] Schätzung FEED;
+- [x] Schätzung FEED;
 	* Waiting feedback; 
-- [ ] DR-Tool DEV;
 - [x] INC1802853;
