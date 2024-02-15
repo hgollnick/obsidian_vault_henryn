@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "069cb0f8a51a7208",
+        "id": "a7ddb3d6a80bcf7f",
         "type": "tabs",
         "children": [
           {
-            "id": "8fad19e003aed19c",
+            "id": "a949ec1a572e66b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO Work.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO Work.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fad19e003aed19c",
+  "active": "a949ec1a572e66b2",
   "lastOpenFiles": [
+    "Kubernetes commands.md",
+    "Kubernetes.md",
+    "TODO Work.md",
     "Delete commits.md",
     "T-Connect commands.md",
-    "TODO Work.md",
     "Linear algebra - Week 1.pdf",
     "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
     "images/output_51_0.png",
@@ -166,8 +160,6 @@
     "TODO.md",
     "Vi clear file.md",
     "Kubernetes delete evicted pods.md",
-    "Kubernetes commands.md",
-    "Kubernetes.md",
     "Azure IP Configuration.md",
     "AMSys 6.0.0 - 5.1.1 merge.md",
     "AI Project Scoping.md",
