@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52e95a3f5b6779ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System of sentences.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System of sentences.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System of sentences.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,13 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d42cb024a51bcb1",
+  "active": "52e95a3f5b6779ed",
   "lastOpenFiles": [
+    "System of sentences.md",
+    "conflict-files-obsidian-git.md",
+    "images/output_51_0.png",
+    "images/output_43_0.png",
+    "images/output_33_0.png",
+    "Linear algebra - Week 1.pdf",
+    "C1_W1_Lab_2_solving_linear_systems_2_variables.md",
+    "C1_W1_Lab_1_introduction_to_numpy_arrays.md",
+    "C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb",
+    "C1_W1_Lab_1_introduction_to_numpy_arrays 1.ipynb",
     "System of equations.md",
     "Linear algebra.md",
     "images/Pasted image 20240115190625.png",
     "images/Linear and non-linear equations.png",
-    "System of sentences.md",
     "Untitled.md",
     "images/Typical Data Science Process.jpg",
     "images",
@@ -165,7 +187,6 @@
     "Conda commands.md",
     "Reading complex files with LLMs.md",
     "Projects.md",
-    "conflict-files-obsidian-git.md",
     "RRPG plugin development.md",
     "Azure IP Configuration.md",
     "Azure Network Security Group.md",
@@ -174,8 +195,6 @@
     "Linux shell async execution.md",
     "Vi editor cheat sheet.md",
     "Terraform HUB-Spoke.md",
-    "LLama model conversion to Hugging Face.md",
-    "How to run shell files.md",
-    "LLama2 models comparison.md"
+    "LLama model conversion to Hugging Face.md"
   ]
 }

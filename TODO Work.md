@@ -1,8 +1,7 @@
 #work 
 
-- [ ] Add new scripts into V4HRDIR_TSI KeePass; 
+- [x] Add new scripts into V4HRDIR_TSI KeePass; 
 	- [x] Speak with Eduardo
-	- [ ] Set ARM Client Secret / Service Principal on Keepass;
 - [x] AMSys Azure INT creation;
 	- [x] Wait for Eduardo Response on 404;
 - [x] Test "Initial aus TBo bei Neuanlage";
@@ -12,4 +11,12 @@
 - [x] WSP-Doku Conjobs config-map INT;
 - [x] Ask William for Feed Excel generation explanation;
 - [x] T-Connect NullPointerException;
-- [ ] GATo WildFly 29.0.1;
+- [x] GATo WildFly 29.0.1;
+- [x] Ask for Jakarta ticket;
+
+
+- [x] FEED defects;
+- [x] FEED Proxy;
+- [x] Schätzung FEED;
+	* Waiting feedback; 
+- [x] INC1802853;
