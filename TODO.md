@@ -7,6 +7,6 @@
 - [x] Talk about finding an apartment; -> Will be performed alone;
 - [x] Buy more cloths (T-Shirts and Trousers); No funds until moving;
 - [x] Configure Obsidian Git;
-- [ ] Marcar médico;
-- [ ] Automatizar pagamento seguro Amarok?;
+- [x] Automatizar pagamento seguro Amarok?; No money :(
 - [ ] Plano Vivo; 
+- [ ] Marcar médico;

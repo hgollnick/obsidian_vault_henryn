@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ef3ddef2a1eb463e",
   "lastOpenFiles": [
+    "TODO Work.md",
     "Projects.md",
     "Azure IP Configuration.md",
     "System of sentences.md",
@@ -168,7 +169,6 @@
     "images/Typical Data Science Process.jpg",
     "images",
     "WSP-Doku cron jobs.md",
-    "TODO Work.md",
     "Pandas.md",
     "AI Project Scoping.md",
     "AI Learnings.md",
