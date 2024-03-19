@@ -3,8 +3,8 @@
 ## Tests to perform
 
 *  Discord transcription;
-	- [ ] SeasaltAI;
-	- [ ] Scripty;
+	- [x] SeasaltAI; Paid solution;
+	- [x] Scripty; Paid solution;
 * LLMS
 	- [x]  Run Llama2; For more information check [[LLama2]]
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11e3bf0e382da930",
+        "id": "e172f89b89a5ae48",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3ddef2a1eb463e",
+            "id": "7d7b21475501231a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Projects.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef3ddef2a1eb463e",
+  "active": "7d7b21475501231a",
   "lastOpenFiles": [
+    "Pandas.md",
+    "TODO.md",
     "TODO Work.md",
     "Projects.md",
     "Azure IP Configuration.md",
@@ -169,7 +171,6 @@
     "images/Typical Data Science Process.jpg",
     "images",
     "WSP-Doku cron jobs.md",
-    "Pandas.md",
     "AI Project Scoping.md",
     "AI Learnings.md",
     "Whisper.md",
